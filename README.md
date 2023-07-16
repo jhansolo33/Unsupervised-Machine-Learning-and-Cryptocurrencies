@@ -76,8 +76,11 @@ Cluster DataFrame image:
 
 • 2D visualization and correlation between Total Coins Supply and Total Coins Mined For 2D visualization I used hvPlot, a graphing library that allows deeper exploration of the data. This graph has Total Coins Supply on y-axis and Total Coins Mined on x-axis. From the graph we can see correlation between those two components. Different colors indicate different classes that crypto coins belong to. When we hover over the specific element the graph shows labels with Coin Name and its Class.
 
+hvplot scatter plot with x="TotalCoinsMined", y="TotalCoinSupply", and by="Class":
 
 ![hvplot_scatter](https://github.com/jhansolo33/Unsupervised-Machine-Learning-and-Cryptocurrencies/assets/119264589/b83f5d4a-6e64-4c47-a090-12dc9c90e492)
+
+3D Scatter plot using the Plotly Express scatter_3d() function:
 
 ![image (F)](https://github.com/jhansolo33/Unsupervised-Machine-Learning-and-Cryptocurrencies/assets/119264589/83439bb5-505e-4fdb-b321-914db45802af)
 
