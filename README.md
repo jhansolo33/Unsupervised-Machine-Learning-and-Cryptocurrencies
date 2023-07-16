@@ -65,4 +65,15 @@ Cluster DataFrame image:
 
 ![Elbow Curve](https://github.com/jhansolo33/Unsupervised-Machine-Learning-and-Cryptocurrencies/assets/119264589/285c74f7-7850-4d78-adbd-e5892aaeb762)
 
+##  Step 4: Visualizing Cryptocurrencies Results and Interpretation
+• Visualizing the clusters helps to graphically understand how they are arranged.
+
+• 3D graph and PCA visualization for 3D visualization we used 3D scatter plot with Plotly Express. Three principal components (on x, y, and z axis), that were created with PCA algorithm are plotted on the graph. These 3 components contains most of the information in the original large data set. As we can see the form of the graph, cryptocurrency is clustered in 4 groups with similar characteristics. When we hover over the specific element the graph shows label with Coin Name and its Algorithm.
+
+• 2D visualization and correlation between Total Coins Supply and Total Coins Mined For 2D visualization I used hvPlot, a graphing library that allows deeper exploration of the data. This graph has Total Coins Supply on y-axis and Total Coins Mined on x-axis. From the graph we can see correlation between those two components. Different colors indicate different classes that crypto coins belong to. When we hover over the specific element the graph shows labels with Coin Name and its Class.
+
+
+![hvplot_scatter](https://github.com/jhansolo33/Unsupervised-Machine-Learning-and-Cryptocurrencies/assets/119264589/b83f5d4a-6e64-4c47-a090-12dc9c90e492)
+
+![image (F)](https://github.com/jhansolo33/Unsupervised-Machine-Learning-and-Cryptocurrencies/assets/119264589/83439bb5-505e-4fdb-b321-914db45802af)
 
