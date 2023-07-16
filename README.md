@@ -51,8 +51,12 @@ Data transformation entails transforming our data into a simpler format for stor
 
 ##  Results:
 Crypto DataFrame looks like the image below prior to the “get_dummies() method” to create variables for the two text features, using the “StandardScaler fit_transform()” function to standardize the features.
+![Screenshot (A)](https://github.com/jhansolo33/Unsupervised-Machine-Learning-and-Cryptocurrencies/assets/119264589/d52efba5-a22c-4ad7-bb4b-ddcea0470705)
 
-![deliverable3](https://github.com/jhansolo33/Unsupervised-Machine-Learning-and-Cryptocurrencies/assets/119264589/6626a5ee-b07a-4d3e-8783-a5863cd39624)
+Result after the fit and transforming:
+![Screenshot (B)](https://github.com/jhansolo33/Unsupervised-Machine-Learning-and-Cryptocurrencies/assets/119264589/cc5af10c-b74b-449f-b0a1-730279004e8e)
 
+Step 2: Feature Elimination, Feature Extraction & Reducing Data Dimensions using PCA
+![image(C)](https://github.com/jhansolo33/Unsupervised-Machine-Learning-and-Cryptocurrencies/assets/119264589/cbd9d90f-6f91-4b47-8f2b-69e920d1434e)
 
 
