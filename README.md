@@ -60,9 +60,12 @@ Result after the fit and transforming:
 ##    Step 2: Feature Elimination, Feature Extraction & Reducing Data Dimensions using PCA
 
 Cluster DataFrame image:
+
 ![image(C)](https://github.com/jhansolo33/Unsupervised-Machine-Learning-and-Cryptocurrencies/assets/119264589/cbd9d90f-6f91-4b47-8f2b-69e920d1434e)
 
 ##  Step 3: Clustering Cryptocurrencies Using K-means and finding the Best Value using Elbow Curve
+
+• Clustering is a type of unsupervised learning that groups data points together. K-means is an unsupervised learning algorithm used to identify and solve clustering issues. K represents how many clusters there will be. These clusters are then determined by the means of all the points that will belong to the cluster. The K-means algorithm groups the data into K clusters, where belonging to a cluster is based on some similarity or distance measure to a centroid. The centroid is found by taking the mean of all the x-values in the cluster, and the mean of all the y-values in a cluster. Elbow Curve is an easy method for determining the best number for K-means. To create the elbow curve, two values are needed - a list of K values and a list of inertia values. Loop through the 10 values for K, for example and determine the inertia: range (1, 11). • Inertia is one of the most common objective functions to use when creating an elbow curve. The inertia is measuring the amount of variation in the dataset. The inertia measuring the amount of variation in the dataset. Inertia is the objective function to plot K values against.
 
 ![Elbow Curve](https://github.com/jhansolo33/Unsupervised-Machine-Learning-and-Cryptocurrencies/assets/119264589/285c74f7-7850-4d78-adbd-e5892aaeb762)
 
