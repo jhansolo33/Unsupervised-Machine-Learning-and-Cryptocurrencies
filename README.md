@@ -54,6 +54,7 @@ Crypto DataFrame looks like the image below prior to the “get_dummies() method
 ![Screenshot (A)](https://github.com/jhansolo33/Unsupervised-Machine-Learning-and-Cryptocurrencies/assets/119264589/d52efba5-a22c-4ad7-bb4b-ddcea0470705)
 
 Result after the fit and transforming:
+
 ![Screenshot (B)](https://github.com/jhansolo33/Unsupervised-Machine-Learning-and-Cryptocurrencies/assets/119264589/cc5af10c-b74b-449f-b0a1-730279004e8e)
 
 ##    Step 2: Feature Elimination, Feature Extraction & Reducing Data Dimensions using PCA
