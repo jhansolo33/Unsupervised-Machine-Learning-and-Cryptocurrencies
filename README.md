@@ -56,9 +56,13 @@ Crypto DataFrame looks like the image below prior to the “get_dummies() method
 Result after the fit and transforming:
 ![Screenshot (B)](https://github.com/jhansolo33/Unsupervised-Machine-Learning-and-Cryptocurrencies/assets/119264589/cc5af10c-b74b-449f-b0a1-730279004e8e)
 
-##  Step 2: Feature Elimination, Feature Extraction & Reducing Data Dimensions using PCA
+##    Step 2: Feature Elimination, Feature Extraction & Reducing Data Dimensions using PCA
 
 Cluster DataFrame image:
 ![image(C)](https://github.com/jhansolo33/Unsupervised-Machine-Learning-and-Cryptocurrencies/assets/119264589/cbd9d90f-6f91-4b47-8f2b-69e920d1434e)
+
+##  Step 3: Clustering Cryptocurrencies Using K-means and finding the Best Value using Elbow Curve
+
+![Elbow Curve](https://github.com/jhansolo33/Unsupervised-Machine-Learning-and-Cryptocurrencies/assets/119264589/285c74f7-7850-4d78-adbd-e5892aaeb762)
 
 
